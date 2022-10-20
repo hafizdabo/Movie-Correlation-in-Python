@@ -16,3 +16,7 @@ The DATA used was obtained from Kaggle here: https://www.kaggle.com/datasets/dan
 * Exploratory Data Analysis
 
 ### CONTACT
+For project, collaboration, recommendation, or correction on my work, please reach out to me on the following:  
+* hafizdabo@gmail.com
+* +2348039138334 | call and whatsapp
+* https://wwww.linkedin.com/in/hafizdabo
